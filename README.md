@@ -1,4 +1,6 @@
-                              __                         __
+
+text ''''                              
+                             __                         __
                             .d$$b                       d$$b.
                           .' TO$;\                   /;$$OT '.
                          /  : TP._;                 ;_.PT :  \
@@ -25,7 +27,11 @@
                                 ;`-               -`; 
                                :\                   /:
                                ;  \               /  ;
-[ec2-user@aws-cloud-instance ~]$ whoami
+
+
+              ''''''
+              
+      c2-user@aws-cloud-instance ~]$ whoami
 Owethu Mabeloane — Cloud DevOps Engineer & IT Team Lead
 
 [ec2-user@aws-cloud-instance ~]$ systemctl status engineering-core
