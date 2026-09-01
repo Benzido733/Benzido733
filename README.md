@@ -111,7 +111,6 @@ Owethu Mabeloane — Cloud DevOps Engineer & IT Team Lead
 * **Frontend & UI:** React, TypeScript, Tailwind CSS, Blade/HTML5
 * **Methodology:** Scrum Leadership, Code Reviews, Continuous Deployment
 
-  ### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%232ea043" width="20" height="20" /> GitHub Stats
 
 <div align="center">
   <!-- 1. GitHub Overall Stats Card -->
