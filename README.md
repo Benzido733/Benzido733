@@ -112,3 +112,7 @@ Owethu Mabeloane — Cloud DevOps Engineer & IT Team Lead
     <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Benzido733/Benzido733/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Benzido733/Benzido733/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
