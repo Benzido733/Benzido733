@@ -106,5 +106,9 @@ Owethu Mabeloane — Cloud DevOps Engineer & IT Team Lead
 * <img src="https://api.iconify.design/octicon:shield-check-16.svg?color=%232ea043" width="16" height="16" /> **DevOps & System Security:** CI/CD pipelines, Git automation, and secure deployment keys
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Benzido733/Benzido733/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Benzido733/Benzido733/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Benzido733/Benzido733/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Benzido733/Benzido733/output/pacman-contribution-graph.svg" />
+  </picture>
 </div>
