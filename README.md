@@ -105,4 +105,6 @@ Owethu Mabeloane — Cloud DevOps Engineer & IT Team Lead
 * <img src="https://api.iconify.design/octicon:device-mobile-16.svg?color=%232ea043" width="16" height="16" /> **Modern Full-Stack Architectures:** High-concurrency backends with Spring Boot and FastAPI
 * <img src="https://api.iconify.design/octicon:shield-check-16.svg?color=%232ea043" width="16" height="16" /> **DevOps & System Security:** CI/CD pipelines, Git automation, and secure deployment keys
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Benzido733/Benzido733/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+</div>
