@@ -36,7 +36,7 @@ Owethu Mabeloane — Cloud DevOps Engineer & IT Team Lead
 ● Active: running (high-concurrency, agile sprint delivery, robust microservices)
 ```
 
-### <img src="https://api.iconify.design/octicon:tools-16.svg?color=%232ea043" width="20" height="20" /> Tech Stack
+### <img src="https://api.iconify.design/octicon:tools-16.svg?color=%232ea043" width="20" height="20" /> Tech Stack (:
 
 #### <img src="https://api.iconify.design/octicon:code-16.svg?color=%232ea043" width="18" height="18" /> Languages
 <p>
